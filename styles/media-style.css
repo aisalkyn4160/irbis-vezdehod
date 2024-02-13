@@ -1,0 +1,24 @@
+@media (max-width: 900px) {
+    .characteristic{
+        flex-direction: column;
+    }
+    .characteristic img{
+        width: 100%;
+    }
+    
+}
+@media (max-width: 740px) {
+    .header .phone{
+        font-size: 22px;
+    }
+    h1{
+        font-size: 26px;
+    }
+    h2{
+        font-size: 30px;
+    }
+
+    .phone-call-block{
+        padding-bottom: 30px;
+    }
+} 
